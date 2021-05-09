@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andro-net
 - 👀 I’m interested in script 
-- 🌱 I’m currently learning a new code
+- 🌱 I’m currently learning 
 - 💞️ I’m beginner in github 
 
 
